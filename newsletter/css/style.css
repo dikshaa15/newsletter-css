@@ -11,12 +11,12 @@ html {
 }
 
 body {
-  background: linear-gradient(90deg, #ff9966, #ff5e62);
+  background: linear-gradient(90deg, #c58e7f, #dfa375);
 }
 
 .wrapper {
   height: 100vh;
-  position: realtive;
+  position: relative;
 }
 
 .fas.fa-envelope {
@@ -61,13 +61,13 @@ input {
 }
 
 ::placeholder {
-  color: #d1d1d1;
+  color: #696969;
 }
 
 .subscribe-btn {
   padding: .8rem 2rem;
   border-radius: 5rem;
-  background: linear-gradient(90deg, #ff9966, #ff5e62);
+  background: linear-gradient(90deg, #c58e7f, #dfa375);
   color: #fff;
   font-size: .7rem;
   border: none;
